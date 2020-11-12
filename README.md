@@ -1,8 +1,7 @@
-# tasks
+# UNIX-commands
 C-progs
 
 Реализация некоторых UNIX команд на Си
-Команды:
 1. pwd
 2. cat + флаг -n, -e, >, >>
 3. cmp
